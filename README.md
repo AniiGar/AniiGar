@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hiya, welcome! 👋 
+
+Hello, my name is Anita! I am an all-around IT professional with experience in system administration, networking, user access control and now software engineering! I have a passion for learning and maintain a growth mindset. I love creativity and marrying it with technology.
+
+- 🔭 I’m currently working on ... [Story Squad](https://www.storysquad.education/) 
+- 🌱 I’m currently learning ... How to dougie and cloud engineering
+- 💬 Ask me about ... My faithful chihuahua, Bentley
+- 📫 [You can reach me by](https://www.youtube.com/watch?v=Z0WDS-EQoIM): ... <aniigarris@gmail.com> or [LinkedIn](https://www.linkedin.com/in/anita-garris/)
+- ⚡ Fun fact: ... I can find a song to integrate into almost all conversations. I use this super power sparingly... :stuck_out_tongue_winking_eye:
+- :sparkles: My technologies: ... JavaScript | React | Context API | Node JS | Python | CSS3 | LESS | HTML5 | SQL 
 
 <!--
 **AniiGar/AniiGar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
